@@ -1,0 +1,28 @@
+CEO-designate of NSO spyware firm quits following US blacklist
+
+-----
+
+The incoming new chief executive of embattled Israeli spyware maker NSO Group has resigned, a company spokesperson said on Thursday, as Palestinian officials claimed its software hacked their phones.
+Isaac Benbenisti, a telecommunications executive who joined NSO in August and was named last week to succeed NSO founder and CEO Shalev Hulio, resigned abruptly following announcement of sanctions by the United States on NSO.
+“In light of the special circumstances that have arisen” following the US decision, Benbenisti said in a resignation letter to NSO’s chairman Asher Levy he “would not be able to assume the position of CEO with the company”, a spokesperson told the Reuters news service.
+The US Commerce Department announced on November 3 it had blacklisted NSO for supplying repressive spyware to foreign governments “that used these tools to maliciously” target a range of actors, including journalists and activists.
+NSO spyware, produced by veterans of top Israeli military intelligence units, surreptitiously gives intruders access to everything a person stores and does on their mobile phone, including real-time communications.
+
+
+
+The US sanctions mean that exports to NSO from US counterparts will be restricted, theoretically making it harder for the company to do business.
+NSO’s Pegasus spyware has been found on phones of Palestinian officials and staff of civil society groups that Israel controversially has deemed terrorist organisations. The groups dispute the label.
+“We have confirmed by experts and specialised companies that Pegasus has been found on phones of three officials at the foreign affairs ministry,” Ahmed al-Deek, a senior official in the Palestinian foreign ministry, told Agence France-Presse on Thursday.
+The Palestinian Ministry of Foreign Affairs and Expatriates said it “condemns in the strongest terms” the hacking of Palestinians’ phones, calling it a “crime that must be held accountable”.
+Thursday’s announcement by the Foreign Ministry marked the first time Palestinian officials have accused NSO of spying on them.
+NSO’s military-grade spyware was detected on the mobile phones of six Palestinian human rights activists, according to findings by the non-profit group Frontline Defenders, Amnesty International and the University of Toronto’s Citizen Lab, which independently confirmed the results.
+Lev Topor, from the Center for Cyber Law and Policy at the University of Haifa in Israel, told Reuters that NSO’s future could depend on whether other countries follow the US lead.
+“It might be they might be blocked in the US but not elsewhere, and the US can of course still hire their services via third parties by proxy,” said Topor.
+But, “if governments worldwide and particularly the Israeli government would make it hard for them to do business, they will struggle”, he said.
+
+
+
+Israelis officials have pushed back against the US blacklisting of NSO arguing Pegasus can only be sold to states, and the sales must be approved by Israeli authorities.
+Speaking to reporters on November 6, Foreign Minister Yair Lapid stressed that NSO was a “private company” that followed Israel’s defence export guidelines, the AFP reported.
+“I don’t think there’s another country in the world which has such strict rules according to cyberwarfare and that is imposing those rules more than Israel,” Lapid said.
+Israel Defence officials said they had launched an investigation of NSO’s practices after the allegations of abuse of its software emerged. No results have been announced.

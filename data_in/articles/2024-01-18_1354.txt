@@ -1,0 +1,17 @@
+Blackouts in Gaza must not be used as ‘weapons of war’: Rights group
+
+-----
+
+A weeklong telecommunications blackout in the Gaza Strip has become a “matter of life and death” and should end immediately, digital civil rights group Access Now says during the longest continuous outage since Israel’s war began.
+“It is unconscionable to toy with connectivity amidst unprecedented violence and unfathomable human suffering,” Marwa Fatafta, the group’s policy and advocacy director for the Middle East and North Africa, said in a statement on Thursday.
+“Internet shutdowns must not be used as weapons of war. Access Now continues to call for an immediate physical and digital ceasefire and for the full restoration of telecommunications services in the Gaza Strip.”
+Palestinian internet service provider Paltel announced the complete loss of all telecommunications services in Gaza “due to the ongoing aggression” on January 12. Cloudflare Radar’s data confirmed a drastic drop in traffic.
+The watchdog NetBlocks, which monitors cybersecurity and the governance of the internet, said on Thursday the incident had passed the 144-hour mark. “The disruption is the ninth and longest sustained telecoms outage since the onset of the present conflict with Israel,” it said on the social media platform X.
+Internet shutdowns have hampered the delivery of humanitarian aid to Gaza’s 2.3 million people, 85 percent of whom are internally displaced. The outages also have made it extremely challenging to document and share information about what is happening on the ground.
+Since the beginning of the war on October 7, internet traffic in the Gaza Strip has undergone multiple blackouts and shutdowns. Repair crews have had trouble reaching damaged sites during heavy Israeli bombardments and have at times taken significant personal risks to restore connections.
+Access Now said it found the outages across Gaza resulted from a combination of direct attacks on civilian telecommunications infrastructure, restrictions on access to electricity and technical disruptions to telecommunications services.
+The blackouts have occurred as Israel has carried out a devastating bombardment of Gaza, killing at least 24,620 people and wounding 61,830, according to Palestinian authorities.
+Access Now found air strikes by Israeli forces on October 9 destroyed a building containing both offices and infrastructure for Paltel and Jawwal, two of the main telecommunications providers in the Gaza Strip.
+Al-Watan Tower, another building that houses media offices and serves as a hub for internet service providers, has also been the target of Israeli air strikes.
+
+

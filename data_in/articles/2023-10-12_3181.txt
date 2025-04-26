@@ -1,0 +1,32 @@
+The chaos at X since Elon Musk’s takeover has gotten worse
+
+-----
+
+Elon Musk, the owner of X, the platform formerly known as Twitter, has made many changes to the service since buying it last year for $44bn.
+He overhauled the verification system, reinstated former US President Donald Trump, gutted trust and safety teams, and installed a new CEO, former NBCUniversal executive Linda Yaccarino.
+The consequences of some of those actions – specifically the loss of the trust and safety teams – were particularly visible this week as X has been flooded with disinformation about the large-scale violence in Israel, becoming the latest change to the platform that has experts concerned.
+The online disinformation on the Israel-Hamas war has come at a time when X has stopped displaying headlines for articles shared on the platform. As of last week, the social network only shows the lead image associated with the article and the website it leads to.
+A day after that move, online tech news outlet Mashable reported that X stopped labelling ads, making it difficult to tell them apart from regular posts.
+The company’s changes will make it hard for people to keep up with news, and could alienate advertisers, hurt revenues, and drive away users, experts told Al Jazeera.
+“[The] erosion of trust, both from users and advertisers, coupled with the heightened risk of disinformation and misinformation, should cause worry for X’s future prospects,” said Zachary Weiner, CEO of communications agency Emerging Insider which focuses on media, publishers, and the entertainment industry.
+“The platform’s business model, historically reliant on ad revenues and active user engagement, is under threat.”
+The change in how X displays articles was not a complete surprise. In August, Fortune reported that X was working on it, and Musk later confirmed that it was “coming from me directly” in a post because it would “greatly improve the esthetics [sic].”
+But its rollout met widespread outrage.
+“I hate how Twitter (X) is removing the headline,” posted a user called ResignRachel. “Shame. No one is going to look at the posts now.”
+“I hate it,” declared Hannah Godfrey, another X user.
+The Washington Post said that the change posed a “challenge for media outlets”.
+“The automated display of headlines allowed users to quickly discern the nature of an article, providing context and a summary even before clicking through,” said Weiner. “With this removed, users, whether they are everyday individuals or influencers, are burdened with the responsibility of manually providing context.”
+
+
+
+Other experts said that the move was part of a larger trend of social media platforms moving away from news, in general.
+Earlier this month, for instance, an Axios report showed that traffic to the world’s largest news websites from Facebook and X had declined significantly over the past year.
+“Links are the distribution tool for publishers,” Noam Bardin, the CEO and founder of Post, an X rival that focuses on news, told Al Jazeera. “[But] links to news sites take users out of the social media site, where the social media site cannot advertise.”
+X’s move to stop labelling ads on the platform has also annoyed members of the creator economy.
+“Transparency is critical,” said Ahsan Tahir in an interview with Al Jazeera, the co-founder and CEO at Walee.pk, a large digital influencer network based in Pakistan. Platforms like X need to make advertisers feel like partners, Tahir said, but X’s decision to stop labelling ads did not inspire confidence.
+Advertisers have reportedly fled X in the last few months. X does not disclose revenues, but Musk posted last month that there was a 60 percent drop in advertisement sales this year.
+As the armed group Hamas attacked Israel on Saturday, X was also flooded with misinformation about the large-scale violence in Israel, according to multiple news reports.
+Hundreds of verified X accounts posted old and unverified videos and images of missile attacks and military activity, including video game screenshots, and tried to pass them off as current and authentic.
+One verified X account made the false claim that the US was sending $8bn worth of military aid to Israel, Bloomberg reported.
+In the absence of a content moderation team, such posts received hundreds of thousands of views on the platform.
+“If brands perceive a platform as a breeding ground for misleading information or low-quality ad content, they may hesitate to invest or spend,” Weiner said. “A decline in ad quality, coupled with diminishing transparency and decreasing brand safety could lead to reduced ad revenues.”

@@ -1,0 +1,25 @@
+Apple says it will fix ‘bug’ recommending Palestinian flag emoji
+
+-----
+
+Apple has said it will fix a “bug” that suggests an emoji for the Palestinian flag when some iPhone users type “Jerusalem” in messages.
+The US technology giant on Thursday blamed a software issue for the suggestion that had appeared on the latest update of its iOS operating system for some users and said it was not intentional.
+This does not appear to have affected all users, with those in the United States reporting they did not get that suggestion after typing in the word.
+British television presenter Rachel Riley pointed out the emoji suggestion on social media, bringing up a long-standing debate over whether Israelis or Palestinians have the right to refer to Jerusalem as their capital.
+Palestinian leaders see occupied East Jerusalem as the capital of their future state.
+Riley noted that her latest version of the mobile operating system suggested she use the Palestinian flag “when I type the capital of Israel, Jerusalem”.
+“Showing double standards with respect to Israel is a form of anti-Semitism, which is itself a form of racism against Jewish people,” she wrote.
+“Please explain whether this is an intentional act by your company, or whether you have no control over rogue programmers,” Riley said, signing the post as “a Jewish woman concerned about the global rise in anti-Semitism”.
+Dear @Apple @AppleSupport @tim_cook
+I’ve just upgraded my software to version iOS 17.4.1, and now, when I type the capital of Israel 🇮🇱, Jerusalem, I’m offered the Palestinian flag emoji. 🇵🇸 This didn’t occur on my phone immediately before this update.
+Below is a… pic.twitter.com/Cw9TDmE6VD
+— Rachel Riley MBE 💙 (@RachelRileyRR) April 9, 2024
+
+The United Nations and most members of the international community view Jerusalem as effectively two cities, and consider East Jerusalem – including the Old City – as part of the West Bank, which is Palestinian territory occupied by Israel in defiance of international law.
+International calls to officially recognise Palestine based on 1967 borders with East Jerusalem as its capital as part of a two-state solution have only grown amid the climbing death toll of Israel’s war on Gaza, now at more than 33,500 people, mostly women and children.
+This is not the first time Apple has been at the centre of a controversy linked to global affairs and territorial integrity.
+In 2019, Apple Maps began designating Crimea as part of Russia, drawing criticism and debate surrounding the Russia-annexed territory.
+In 2022, after Russia invaded Ukraine, Apple Maps changed back the status of Crimea as belonging to Ukraine, but only for users outside of Russia.
+Since the start of the war on Gaza, pro-Palestinian users have been facing a plethora of restrictions by technology giants online, including being censored or shadowbanned.
+
+

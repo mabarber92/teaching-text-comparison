@@ -1,0 +1,23 @@
+Telegram restricts access to Hamas channels on Google, Apple stores
+
+-----
+
+Telegram, the encrypted messaging app, has quietly restricted access to several channels affiliated with the Palestinian armed group Hamas.
+Hamas’s official account, the account of its armed wing the Qassam Brigades, and the news account Gaza Now have not been accessible on versions of Telegram downloaded from Google Play or Apple’s App Store since last week.
+The accounts, which have amassed hundreds of thousands of new followers since Hamas’s October 7 attacks on Israel, are still accessible from the online version of Telegram and the version of the app downloaded directly from Telegram’s website.
+While Telegram has not publicly commented on the reasons for the move, the restrictions appeared after the Zachor Legal Institute, a US-based lobby group that campaigns against “anti-Israel movements”, last week wrote a letter to Apple pointing out that seven Hamas-linked accounts remained accessible on iOS despite being blocked for Android users.
+Apple and Telegram did not respond to requests for comment, but Google told Al Jazeera in a statement that Google Play requires apps that feature user-generated content to moderate “egregious content, including content that promotes terrorist acts, incites violence, or celebrates terrorist attacks”.
+Hamas, which governs the Gaza Strip, is considered a “terrorist” organisation by the United States, the European Union, the United Kingdom, Canada, Australia, Japan and Paraguay.
+Telegram has been used heavily by Hamas to promote its message and it used the app to broadcast violent videos and images of its attacks on southern Israeli communities in real time. Other armed groups such as ISIL (ISIS) and al-Qaeda have also used Telegram, which is known for its hands-off moderation, to promote their ideology and claim responsibility for attacks.
+“Telegram served a purpose to Hamas that day and every day since because it lacks moderation policies and these lax rules allow militant groups to upload graphic footage of the carnage they are participating in, and then that content will filter to other places on the internet like X,” Layla Mashkoor, an associate editor at the Atlantic Council’s Digital Forensic Research Lab, told Al Jazeera.
+The official channels of the Qassam Brigades and Hamas added nearly half a million and 100,000 subscribers, respectively, after the October 7 attacks.
+Gaza Now – which is described as “Hamas-aligned” by the Atlantic Council – went from 343,506 subscribers to nearly 1.9 million.
+Since the introduction of the restrictions on the Google Play and App Store versions of Telegram, the channels have lost between 10,000 and 80,000 subscribers.
+Mashkoor said Hamas’s status as the government of Gaza sets it apart from armed groups like ISIL, even though both may share violent content through channels like Telegram.
+“The facts are the facts and they are officially a representative group for Gaza and that does demand that conversations around how we treat state leaders or officials come into consideration, but then of course the other element that needs to be considered [is] the graphic nature and the violence and how you balance that – which is a really difficult thing to determine,” she said.
+Telegram CEO Pavel Durov has defended the platform’s loose moderation policies, arguing that it has provided valuable information about the Israel-Hamas war and is less likely to spread harmful content than competitors as users must opt in to channels.
+“As such, it’s unlikely that Telegram channels can be used to significantly amplify propaganda,” Durov said in a post on Telegram earlier this month, adding that moderators remove millions of pieces of harmful content every day.
+“Instead, they serve as a unique source of first-hand information for researchers, journalists and fact-checkers. While it would be easy for us to destroy this source of information, doing so risks exacerbating an already dire situation.”
+Still, Hamas appears to be preparing for its possible removal from Telegram and has told its followers to download a special dedicated app.
+Mashkoor said smaller channels that disseminate information from the main Hamas accounts could also ensure that its message continues to circulate even if Telegram cracks down on the group.
+“Most platforms have a policy against hosting content from designated terrorist organisations, so efforts to control the spread of this content will always start at the source channels,” she said.

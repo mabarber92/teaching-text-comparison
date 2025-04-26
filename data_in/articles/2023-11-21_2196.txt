@@ -1,0 +1,43 @@
+Keeping Gaza online: Telecom heroes risk life and limb under Israel’s bombs
+
+-----
+
+It was a little after 10 pm when Ahmad* was called by the Network Operation Centre at the Palestine Telecommunications Company (PalTel). It was the third week of Israel’s assault on Gaza and the main data centre in the Sheikh Radwan district of Gaza City had lost power, threatening to shut off all communications in the area.
+To check on the centre, the PalTel electrician would have to make his way across the city during intense Israeli aerial bombardment, putting his life in danger. But he did not hesitate. He flagged down a passing ambulance, hoping it would provide him with a degree of safety from Israeli attacks.
+“I told the driver that if I could not restore the generator, people like him wouldn’t be able to reach injured civilians. We are no better nor less important than medical staff – a phone call can save lives,” Ahmad said.
+Once at the centre, Ahmad set to work. By 2am, he had repaired the generator, allowing the telecommunications network to keep operating. He decided to stay in the building until dawn, slipping out around the freshly fallen debris to go home during a lull in Israeli bombing.
+“Thank God my family was OK and I lived to see another day. This is my work and my life. … I do this every day,” he said.
+Ahmad’s tale has become almost routine among the 750 PalTel staff in Gaza who, despite living through bombing, displacement and death, risk life and limb to keep the telecoms network running.
+The cost of keeping Gaza connected has been high. At least five PalTel staff members in Gaza have been killed in Israeli attacks while many other staff members have lost family members, including wives and children.
+Samir*, one of the staff members killed, had spent 10 hours shuttling fuel between data towers before returning home. Just 15 minutes later, Samir and his brother were killed in an Israeli air raid on their building.
+Humanitarian workers and journalists have said the operation of communication networks in Gaza is essential for rescue services and for documenting the reality of conditions on the ground to the outside world.
+More than 13,000 Palestinians have been killed by Israeli attacks on Gaza since October 7. Videos of desperate family members and civil defence scrabbling through the rubble of bombed-out buildings to rescue civilians trapped underneath have inspired shock and horror the world over.
+On the first day of its offensive on Gaza on October 7, Israel cut electricity to the territory. Despite the lack of power and the constant bombing, Gaza’s telecoms network stayed operational for almost six weeks.
+The CEO of PalTel said this is because the company has been preparing for war for “over 15 years”, embedding emergency contingencies in its Gaza infrastructure at every step.
+“We have faced a lot of different incidents during the previous wars. We’re doing more protection than any other operator,” CEO Abdul Majeed Melhem told Al Jazeera.
+PalTel’s Gaza network was built during Israel’s siege of the enclave, which requires that each piece of equipment be approved by Israeli authorities before entering Gaza, making repairs difficult.
+Recurrent wars on Gaza and frequent bombing campaigns by Israel have damaged civilian infrastructure, so to brace itself for a sustained conflict like the current one, the telecoms network is built like no other.
+While most telecom networks bury their cables 60cm (about 2ft) underground, PalTel buries its cables up to 8 metres (26ft)  deep. In case the Israelis cut off electricity, its data centres in Gaza also have three layers of redundancy: generators, solar panels and batteries.
+The company has also developed emergency protocols to direct workers remotely from the occupied West Bank, and if severed communications make this impossible, Gazan staff are empowered to act autonomously.
+Despite all the redundancies and preparations, the sheer scale of bombings these past weeks has still crippled the network. About 70 percent of the mobile network has been taken offline. Solar panels have been rendered mostly useless either by being destroyed in attacks or covered in dust and debris.
+The relentless nature of the conflict is also weighing on staff, who are dogged by danger from their house to the field.
+Rabih*, a fibre optics technician, was called to repair a cable just metres from the border on October 15. Prior to going, he had to give an exhaustive list of the repair team’s names, the colour of their cars and registration numbers to the Israelis, because “a mistake could be deadly”.
+As Rabih and his team laboured for two hours to fix the cable, the buzz of a drone above him and the sounds of shelling intermingled with the sound of their excavator.
+“Any wrong move could mean being targeted. I cannot explain to my wife and kids why I do that or why I volunteer to go out during the war. My company doesn’t oblige me, but if someone can do it, it has to be me,” he said.
+Staff in the West Bank watch their colleagues in Gaza from afar with bated breath, hesitant to ask them to check on damaged equipment, knowing that a simple repair trip could cost them their lives.
+Gaza-based staff are under no obligation to go into the field, but most have been eager to volunteer despite the dangers.
+“It is very difficult to call my colleagues who are under bombardment and ask them to go out. I feel afraid that if one of them gets hurt, I will never forgive myself,” said Mohammed*, a worker in the Network Operation Centre in the West Bank.
+Mohammed’s role at the centre requires him to monitor problems in the network, ask workers to volunteer to repair them and stay on the phone with them to provide feedback on the repairs. The calls are nerve-racking, and both Mohammed and the worker in Gaza want the field visit to be resolved as quickly as possible.
+“I cannot imagine how these people have the courage to go out. Maybe if I were there, I wouldn’t do it. I don’t know if I would,” Mohammed said.
+No matter how many metres deep they dig or the number of solar panels they install, Gaza’s connections to the outside world ultimately relies on the Israelis.
+The cables that connect Gaza to the outside world run through Israel, and the country on at least two occasions has deliberately cut off the strip’s international communications.
+“It’s clear for us that it was cut off by a decision. What proves this is that we didn’t do anything to get it back,” Melhem said.
+Israel also controls fuel to Gaza, allowing a small trickle into Gaza on Friday after weeks of pressure from the United States.
+Described as a “drop in the bucket” by humanitarian groups, Israel announced that 120,000 litres (31,700 gallons) of fuel would be allowed into the territory every two days for use by hospitals, bakeries and other essential services.
+PalTel will also be given 20,000 litres (5,283 gallons) of fuel every two days for its generators.
+On Thursday, the company had announced it would go into a full telecoms blackout because its fuel reserves were exhausted for the first time during the current war.
+According to Mamoon Fares, the corporate support director at PalTel, the 20,000 litres provided “should be enough to operate a good part of the network”.
+However, Gaza’s telecoms network will still be at the mercy of Israel should it decide to cut off fuel deliveries or network services that run through its territory.
+Without the ability to communicate, the already dismal situation in Gaza would only further deteriorate.
+“No ambulances, no emergency services, no civil defence or humanitarian organisations can work without telecommunications,” Melhem said.
+* Names have been changed to protect the individuals’ safety.
