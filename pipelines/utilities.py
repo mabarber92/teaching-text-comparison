@@ -4,14 +4,21 @@ import pandas as pd
 from tqdm import tqdm
 
 class ArticleProcessor():
+
+    
+
     def __init__ (self, dir):
         self.data = []
         self.files = []
+        self._date_patterns = {"year": "\d{4}", "month": "-(\d{2})-", "day": "-(\d{2})_"}
         for root, dirs, files in os.walk(dir):
             for name in files:
                 self.files.append(os.path.join(root, name))
     
-    def publication_date(self, filename, date_patterns = {"year": "\d{4}", "month": "-(\d{2})-", "day": "-(\d{2})_"}):
+    def publication_date(self, filename, date_patterns=None):
+        if date_patterns is None:
+            date_patterns = self._date_patterns
+        
         out = {}
         for key, pattern in date_patterns.items():
             match = re.findall(pattern, filename)
@@ -76,7 +83,7 @@ class ArticleProcessor():
             metadata = self.publication_date(file)
 
             for name, func in processors:
-                result = func(text, metadata)
+                result = func(text, file)
 
                 if isinstance(result, dict):
                     row = metadata.copy()
