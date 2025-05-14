@@ -68,8 +68,9 @@ class corpusAnalytics(ArticleProcessor):
 
     def article_titles(self, splitter = "\n+-----"):
         def _titles_processor(text, file):
-            title = re.split(splitter, text)[0]
-            return {"title": title, "file": file}
+            splits = re.split(splitter, text)            
+            length = len(splits[1].split())
+            return {"title": splits[0], "length": length, "file": file}
         return _titles_processor
     
     def article_lengths(self):
@@ -215,6 +216,7 @@ class corpusAnalytics(ArticleProcessor):
             else:
                 if self._active_group_by is not None:
                     df = df.sort_values(by=[self._active_group_by])
+                
                 self.export_df(df, main_col)
             
             

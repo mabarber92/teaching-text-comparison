@@ -25,6 +25,10 @@ class ArticleProcessor():
             out[key] = match[0] if match else None
         return out
 
+    def fetch_title(self, text, splitter = "\n+-----"):
+        title = re.split(splitter, text)[0]
+        return {"title": title}
+
     def _process_articles(self, func, df_out = False):
         out = []
         for file in tqdm(self.files):
