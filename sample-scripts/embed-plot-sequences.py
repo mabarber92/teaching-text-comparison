@@ -87,7 +87,9 @@ fig.update_layout(
 
 fig.write_html("sequence-4-topics-arts4.html")
 
-fig = px.scatter(df, x="x", y="y", text="no", color="topic_no", title=f"{len(df)} articles from the Gaza corpus clustered according to their sequence embeddings, coloured according to BERTopic")
+fig = px.scatter(df, x="x", y="y", text="no", color="topic_no", 
+                 hover_name = "title",
+                 title=f"{len(df)} articles from the Gaza corpus clustered according to their sequence embeddings, coloured according to BERTopic")
 fig.update_traces(textposition='top center')
 fig.update_layout(
     font=dict(        
