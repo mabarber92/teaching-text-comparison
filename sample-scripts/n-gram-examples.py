@@ -24,6 +24,10 @@ for article in tqdm(os.listdir(article_dir)):
 
 # text = text.split("-----")[-1]
 # text = ".".join(text.split(".")[:3])
+main_doc = "2023-11-17_2262.txt"
+article_path = os.path.join(article_dir, main_doc)
+with open(article_path, "r", encoding='utf-8') as f:
+    text = f.read()
 
 print(text)
 
